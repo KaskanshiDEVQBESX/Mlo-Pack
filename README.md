@@ -9,6 +9,7 @@ License: Copyright (C) 2022 Ben - All Rights Reserved
 to modify the project for personal or non-commercial use.
 to share or improve the project, provided that you include this license.
 to use the pack for non-commercial projects.
+
 ❌You're NOT ALLOWED:
 
 to upload the resource pack to other platforms or distribute it separately without explicit permission.
